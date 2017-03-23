@@ -28,4 +28,5 @@ Consignes :
 2. Nettoyer la liste des lignes de bus en repérant les valeurs problématiques et les doublons et en créant une table de correspondance
 3. Calculer le total des ventes par ligne de bus
 4. Identifier la ville de départ
+5. Comparer la liste des villes de départ prévues par rapport aux villes réelles
 5. Calculer le total par ville de départ
